@@ -1,0 +1,5 @@
+print("Enter Two integers: ")
+a = int(input())
+b = int(input())
+print(f"Inputs: a={a}, b={b}")
+print(f"Output: {a + b}")
